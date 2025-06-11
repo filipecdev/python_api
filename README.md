@@ -11,5 +11,5 @@
 |`app/repositories/`|	CRUD e lógica de acesso ao banco (abstração da base de dados)|
 |`app/db/`|	Configuração do banco e ORM (engine, base, etc.)|
 |`app/utils/`|	Funções utilitárias ou helpers reutilizáveis|
-|`tests/`|	Testes organizados por contexto|
+|`tests/`|Testes organizados por contexto|
 |`migrations/`|	Arquivos de migração do banco (usando Alembic, Flask-Migrate, etc.)|
